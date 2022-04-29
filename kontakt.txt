@@ -1,0 +1,7 @@
+<div class="wizytowka">
+
+      <div class="wiz">
+        <a href="index.html"><img src="img/psg.jpg" id="psg-jpg"></a>
+      </div>
+
+    </div>
